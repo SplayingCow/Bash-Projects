@@ -1,0 +1,4 @@
+File Organizer started at Mon Dec 23 18:03:03 EST 2024
+Moved test_directory/file2.JPG to test_directory/Images/file2.JPG
+Moved test_directory/.hiddenfile to test_directory/hidden_file/.hiddenfile
+Moved test_directory/file1.txt to test_directory/TextFiles/file1.txt
